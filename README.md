@@ -43,7 +43,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-4. Access the Application
+### 4. Access the Application
 
 Application root (test endpoint):
 http://localhost:8080/
